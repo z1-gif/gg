@@ -1,0 +1,7 @@
+echo "#gg" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git branch -M main 
+git remote add origin https://github.com/gertrudphillips85/gg.git
+ git push -你起源主要
